@@ -34,3 +34,4 @@ console.log ("O Heroi de nome "  +  nomeDoHeroi  +  " está no nivel " +  XpHero
 
 
 
+

@@ -41,4 +41,3 @@ console.log("O Guerreiro "  +  Heroi  +  " tem saldo de " + resultado + " vitori
 
 
 
-
